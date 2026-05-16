@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityDroneSim-velocity_control", "UnityDroneSim-velocity_control.csproj", "{BEAA7482-11AB-6F3A-3498-E6725A28E36C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityDroneSim-velocity_control.Editor", "UnityDroneSim-velocity_control.Editor.csproj", "{164DAD4B-5035-7335-BD1B-FBB99C945282}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEAA7482-11AB-6F3A-3498-E6725A28E36C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEAA7482-11AB-6F3A-3498-E6725A28E36C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEAA7482-11AB-6F3A-3498-E6725A28E36C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEAA7482-11AB-6F3A-3498-E6725A28E36C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{164DAD4B-5035-7335-BD1B-FBB99C945282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{164DAD4B-5035-7335-BD1B-FBB99C945282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{164DAD4B-5035-7335-BD1B-FBB99C945282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{164DAD4B-5035-7335-BD1B-FBB99C945282}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
